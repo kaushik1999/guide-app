@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324768311409",
+    "firebase_url": "https://hitam-5ca09.firebaseio.com",
+    "project_id": "hitam-5ca09",
+    "storage_bucket": "hitam-5ca09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324768311409:android:b1b5d7cd8bb82e5c",
+        "android_client_info": {
+          "package_name": "com.sky.hitam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324768311409-rf66afv3aip1kka03sq6jpro2dv299pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sky.hitam",
+            "certificate_hash": "b0625e861f921c54747414358c2a85e8d2575081"
+          }
+        },
+        {
+          "client_id": "324768311409-cprbi37hnlq8pd5q861i90fe0kvlsi2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9v51r8fsut9uHqSswKN-sEg_ferIIQm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324768311409-cprbi37hnlq8pd5q861i90fe0kvlsi2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

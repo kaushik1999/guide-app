@@ -1,0 +1,24 @@
+<resources>
+    <string name="about_page_description" translatable="false">  FIND YOUR PATH
+
+Hyderabad Institute of Technology and Management (HITAM) is situated in a sprawling lush, green campus at Medchal in Telangana State. It was started in 2001 as Royal College of Engineering at Medak. This institution sought to impart qualitative education in the field of Engineering and Management. Transformation at HITAM does not stop with mere physical infrastructure; it extended far beyond. It has manifested as best practices, which have evolved with continuous refinement, be it in education, embracing eco-consciousness, facilitating career planning and ensuring faculty development, all from a perspective of overall growth of its students and faculty.
+
+Our Vision.
+To be a University which nurtures the students with competencies to become confident about their careers and contribute to the society.
+
+Our Mission.
+To build capabilities of faculty for facilitating courses with innovative pedagogy.
+To enrich the programs with relevant and updated curriculum.
+To progress by adopting the best practices to the workforce needs as per emerging trends.
+To provide industry interface for faculty and students to work on projects with end goal of real time knowledge.</string>
+
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+
+</resources>
